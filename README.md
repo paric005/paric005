@@ -1,16 +1,30 @@
-## Hi there 👋
+## 💻 Frontend
 
-<!--
-**paric005/paric005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-grey?logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-blue?logo=r&logoColor=white)
+
+---
+
+## ⚙️ Backend (Learning)
+
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-pink?logo=graphql&logoColor=white)
+
+---
+
+## 🗄 Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white)
